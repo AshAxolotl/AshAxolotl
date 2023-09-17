@@ -1,4 +1,5 @@
 ### Hi there 👋
+Need me? just send a msg to my discord @ashaxolotl
 
 <!--
 **AshAxolotl/AshAxolotl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
