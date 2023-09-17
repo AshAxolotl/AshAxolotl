@@ -1,5 +1,5 @@
 ### Hi there 👋
-Need me? just send a msg to my discord @ashaxolotl
+Need me? Just send a msg to my discord @ashaxolotl
 
 ![Alt text](solarflare_killbill.png)
 <p>(some pixel art i made)</p>
