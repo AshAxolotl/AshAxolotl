@@ -1,7 +1,7 @@
 ### Hi there 👋
 Need me? just send a msg to my discord @ashaxolotl
 
-Some pixel art i made ![Alt text](./solorflare)
+Some pixel art i made ![Alt text](./solarflare_billbill.png)
 
 <!--
 **AshAxolotl/AshAxolotl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
